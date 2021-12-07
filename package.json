@@ -26,7 +26,7 @@
   "homepage": "https://lasiya.ml",
   "dependencies": {
     "xtroid-admin": "^1.0.0",
-    "@adiwajshing/baileys": "3.4.1",
+    "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-lasi": "^1.2.1",
     "textmaker-lsi": "^1.8.8",
